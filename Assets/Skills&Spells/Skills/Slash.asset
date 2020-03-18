@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6afd863c616ad04db2abec9b53e34b6, type: 3}
+  m_Name: Slash
+  m_EditorClassIdentifier: 
+  requirement: {fileID: 0}
+  name: <color=#00ffffff>Fire Slash</color>
+  description: '<b><color=#00ffffff>Spell:</color></b> A slash with <color=#B22222>Fire</color>
+    damage.
+
+    15% Resistance to <color=#B22222>Fire</color> damage.'
+  spriteInSkillTree: {fileID: 21300000, guid: e42184b27a66a8245a17560fc8e68982, type: 3}
+  spriteInHUD: {fileID: 21300000, guid: 578b4449c948b6544a498f1f6940f0e6, type: 3}
+  effects:
+  - {fileID: 11400000, guid: ee1c834947af1364586871a2da544021, type: 2}
+  - {fileID: 11400000, guid: 2e144cc5703a8fc42b503dffd1552e33, type: 2}

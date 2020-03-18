@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d15539eec29466c43b8dcfe2b704ecdb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thyssen J
+  fontNames:
+  - Thyssen J
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 307667e2909b363478c2914ca96cdc45, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

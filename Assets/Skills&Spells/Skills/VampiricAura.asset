@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6afd863c616ad04db2abec9b53e34b6, type: 3}
+  m_Name: VampiricAura
+  m_EditorClassIdentifier: 
+  requirement: {fileID: 0}
+  name: <color=#00ffffff>Vampiric Aura</color>
+  description: <b><color=#00ffffff>Spell:</color></b> When used creates an aura around
+    the player where every 50% damage dealt to the enemies also heals the player
+  spriteInSkillTree: {fileID: 21300000, guid: f491c59d676c62c45b05f08ce29c1909, type: 3}
+  spriteInHUD: {fileID: 21300000, guid: 89157a318e3d9f84ba97526e58888fff, type: 3}
+  effects:
+  - {fileID: 11400000, guid: e9c19895ef433f0458a9f4ab1c4db574, type: 2}

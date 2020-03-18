@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6afd863c616ad04db2abec9b53e34b6, type: 3}
+  m_Name: HandOfDeath
+  m_EditorClassIdentifier: 
+  requirement: {fileID: 0}
+  name: <color=#00ffffff>Hand of Death</color>
+  description: <b><color=#00ffffff>Spell:</color></b> It's a big hand of death, I
+    don't know what else to tell you.
+  spriteInSkillTree: {fileID: 21300000, guid: c02c24c0e30050642a71eb8cefa0cf3e, type: 3}
+  spriteInHUD: {fileID: 21300000, guid: 49cd8c3385a55bd488e6b33114e83ad5, type: 3}
+  effects:
+  - {fileID: 11400000, guid: 0cccf691a0f253540a2120a59a081448, type: 2}

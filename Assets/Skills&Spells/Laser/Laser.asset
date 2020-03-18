@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a380072de192ac4fb63ae6d35ac52b8, type: 3}
+  m_Name: Laser
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  iconSprite: {fileID: 0}
+  triggerCastTargetAnimation: 0
+  SpellPrefab: {fileID: 8790510857366220892, guid: 8bfc70b54b20c414890e6f7062c3a72e,
+    type: 3}
+  InstatiateWithSameRotationAsCaster: 1
+  InstatiateAsChild: 1

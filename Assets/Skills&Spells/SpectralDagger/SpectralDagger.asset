@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a380072de192ac4fb63ae6d35ac52b8, type: 3}
+  m_Name: SpectralDagger
+  m_EditorClassIdentifier: 
+  cooldown: 7.5
+  iconSprite: {fileID: 21300000, guid: 1eeddf4ed6dc1234a8b8e933b2e2a134, type: 3}
+  triggerCastTargetAnimation: 0
+  SpellPrefab: {fileID: 7938838868080023724, guid: f206f853bc737f84d80b7cac63d334d8,
+    type: 3}
+  InstatiateWithSameRotationAsCaster: 1
+  InstatiateAsChild: 0

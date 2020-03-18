@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelBuilder
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 85115914e22bd314ca556ef5e04420ff,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SelectedSegments.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: instantiatedSegments.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: NextInstantiatedSegment
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LevelLengthInSegments
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: StartSegment
+    value: 
+    objectReference: {fileID: 4155311441518474311, guid: 6740ca39954a0984ebe76f3f58a4c6d8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: EndSegment
+    value: 
+    objectReference: {fileID: 3469419749222104613, guid: 82b15099ec337eb4f9eaaf83e70ab41c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.size
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[0]
+    value: 
+    objectReference: {fileID: 8029137324020701492, guid: c08c7be8a8acad84d80043ec9fae77e5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[1]
+    value: 
+    objectReference: {fileID: 2726513842564298498, guid: 5f7300b093d63e748bc4ce9aca5637fb,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[2]
+    value: 
+    objectReference: {fileID: 8140408699111017922, guid: 121ea619679d84342bcc2caaf60e7f57,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[3]
+    value: 
+    objectReference: {fileID: 3690236425100064934, guid: 02fe35fcc5445a643ae2447d283b5046,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[4]
+    value: 
+    objectReference: {fileID: 5846339445247470895, guid: 6945ffb680bfec04baeef7119b8675a1,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[5]
+    value: 
+    objectReference: {fileID: 8407829687109554664, guid: 24cacab0ca23c5447bbea64a0164eb43,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[6]
+    value: 
+    objectReference: {fileID: 8687469304571524652, guid: 95f077e2b68a43c4f8d24e0244ea4cbf,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[7]
+    value: 
+    objectReference: {fileID: 3634954296678849349, guid: dba49ebf2e930794ca999608e3d3c8fb,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[8]
+    value: 
+    objectReference: {fileID: 1494399482696074118, guid: fd02af461b1a4074691a7fff0798d462,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[9]
+    value: 
+    objectReference: {fileID: 895111644683786025, guid: bdf5a73554d372444b7096e350d06cfe,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[10]
+    value: 
+    objectReference: {fileID: 2574697144136649886, guid: 56644aa996d805942ae95d2336435096,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[11]
+    value: 
+    objectReference: {fileID: 1640198010771667398, guid: f665e042c64f7a942835aceb0c5bce2b,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[12]
+    value: 
+    objectReference: {fileID: 3608374394766979624, guid: 60ec9b5532858fb4d9e5d2c253dd7285,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: PossibleSegments.Array.data[13]
+    value: 
+    objectReference: {fileID: 4155311441518474311, guid: 0dfd54425b0593f41812f759a88f600e,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: seed
+    value: 
+    objectReference: {fileID: 0}

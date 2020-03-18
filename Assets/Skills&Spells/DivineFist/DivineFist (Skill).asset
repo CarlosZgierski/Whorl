@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6afd863c616ad04db2abec9b53e34b6, type: 3}
+  m_Name: DivineFist (Skill)
+  m_EditorClassIdentifier: 
+  requirement: {fileID: 0}
+  name: <color=#00ffffff>Fist of God</color>
+  description: <b><color=#00ffffff>Spell:</color></b> A divine fist falls from the
+    sky after a delay damaging everything below including you.
+  spriteInSkillTree: {fileID: 21300000, guid: f22922b9220199040a823511f43611fd, type: 3}
+  spriteInHUD: {fileID: 21300000, guid: cb26eeaf5fa86814cb6dd75317a6f3b1, type: 3}
+  effects:
+  - {fileID: 11400000, guid: b26daf563f306a04f987522c6fa2d7b4, type: 2}

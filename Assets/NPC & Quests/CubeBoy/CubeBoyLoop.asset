@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc47653b758e10d40b696e6e4cc3413d, type: 3}
+  m_Name: CubeBoyLoop
+  m_EditorClassIdentifier: 
+  Character: {fileID: 11400000, guid: 0d174d93021915449a9984e91b4d9abc, type: 2}
+  Conditions: []
+  SkillConditions: []
+  CurrentSegmentConditions: []
+  Lines:
+  - text: See you later, alligator
+  Looped: 1
+  DialogueEndResult:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null

@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 03569609379d5364ab75491fcde292a8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Head
+    100004: Hip
+    100006: joint1
+    100008: Left_Arm
+    100010: Left_Arm 1
+    100012: Left_Armtip
+    100014: Left_Armtip 1
+    100016: Left_Foot
+    100018: Left_Foot 1
+    100020: Left_LowerLeg
+    100022: Left_LowerLeg 1
+    100024: Left_Shoulder
+    100026: Left_Shoulder1
+    100028: Left_Tentacle1
+    100030: Left_Tentacle1 1
+    100032: Left_Tentacle2
+    100034: Left_Tentacle2 1
+    100036: Left_Tentacle3
+    100038: Left_Tentacle3 1
+    100040: Left_Tentacle4
+    100042: Left_Tentacle4 1
+    100044: Left_Tentacle5
+    100046: Left_Tentacle5 1
+    100048: Left_Tentacle6
+    100050: Left_Tentacle6 1
+    100052: Left_Tentacle7
+    100054: Left_Tentacle7 1
+    100056: Left_Thigh
+    100058: Left_Thigh1
+    100060: Left_TipToe
+    100062: Left_TipToe 1
+    100064: //RootNode
+    100066: Neck
+    400000: Chest
+    400002: Head
+    400004: Hip
+    400006: joint1
+    400008: Left_Arm
+    400010: Left_Arm 1
+    400012: Left_Armtip
+    400014: Left_Armtip 1
+    400016: Left_Foot
+    400018: Left_Foot 1
+    400020: Left_LowerLeg
+    400022: Left_LowerLeg 1
+    400024: Left_Shoulder
+    400026: Left_Shoulder1
+    400028: Left_Tentacle1
+    400030: Left_Tentacle1 1
+    400032: Left_Tentacle2
+    400034: Left_Tentacle2 1
+    400036: Left_Tentacle3
+    400038: Left_Tentacle3 1
+    400040: Left_Tentacle4
+    400042: Left_Tentacle4 1
+    400044: Left_Tentacle5
+    400046: Left_Tentacle5 1
+    400048: Left_Tentacle6
+    400050: Left_Tentacle6 1
+    400052: Left_Tentacle7
+    400054: Left_Tentacle7 1
+    400056: Left_Thigh
+    400058: Left_Thigh1
+    400060: Left_TipToe
+    400062: Left_TipToe 1
+    400064: //RootNode
+    400066: Neck
+    7400000: ATTACK
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ATTACK
+      takeName: Take 001
+      firstFrame: 245
+      lastFrame: 648
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

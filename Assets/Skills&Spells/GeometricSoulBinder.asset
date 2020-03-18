@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a380072de192ac4fb63ae6d35ac52b8, type: 3}
+  m_Name: GeometricSoulBinder
+  m_EditorClassIdentifier: 
+  cooldown: 1
+  iconSprite: {fileID: 21300000, guid: 94f6b1956c869c148a373f42b8be3588, type: 3}
+  triggerCastTargetAnimation: 1
+  SpellPrefab: {fileID: 6770336613902443930, guid: 59088152d55118f4a9c0e64c8cc0fb45,
+    type: 3}
+  InstatiateWithSameRotationAsCaster: 0
+  InstatiateAsChild: 0
